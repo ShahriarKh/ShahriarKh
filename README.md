@@ -23,10 +23,11 @@
   ![php](https://img.shields.io/badge/php-030314?style=for-the-badge&logo=php&logoColor=D6E7FF)
   
   ### Artist side of me
+  ![dragonframe](https://img.shields.io/badge/dragonframe-030314?style=for-the-badge&logo=dragonframe&logoColor=D6E7FF)
   ![photoshop](https://img.shields.io/badge/photoshop-030314?style=for-the-badge&logo=adobe-photoshop&logoColor=D6E7FF)
   ![illustrator](https://img.shields.io/badge/illustrator-030314?style=for-the-badge&logo=adobe-illustrator&logoColor=D6E7FF)
   ![premiere](https://img.shields.io/badge/premiere-030314?style=for-the-badge&logo=adobe-premiere-pro&logoColor=D6E7FF)
   ![after effects](https://img.shields.io/badge/after_effects-030314?style=for-the-badge&logo=adobe-after-effects&logoColor=D6E7FF)
-![blender](https://img.shields.io/badge/blender-030314?style=for-the-badge&logo=blender&logoColor=D6E7FF)
+  ![blender](https://img.shields.io/badge/blender-030314?style=for-the-badge&logo=blender&logoColor=D6E7FF)
 
 </div>
