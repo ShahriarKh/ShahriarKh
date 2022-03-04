@@ -2,10 +2,12 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriarkh&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+
    ### Tech Stack
   
   ![Javascript](https://img.shields.io/badge/Javascript-030314?style=for-the-badge&logo=javascript&logoColor=D6E7FF)
   ![CSS](https://img.shields.io/badge/CSS-030314?style=for-the-badge&logo=css3&logoColor=D6E7FF)
+  ![SCSS](https://img.shields.io/badge/scss-030314?style=for-the-badge&logo=sass&logoColor=D6E7FF)
   ![HTML](https://img.shields.io/badge/HTML-030314?style=for-the-badge&logo=html5&logoColor=D6E7FF)
   ![React](https://img.shields.io/badge/React-030314?style=for-the-badge&logo=react&logoColor=D6E7FF)
   ![Next.js](https://img.shields.io/badge/Next.js-030314?style=for-the-badge&logo=next.js&logoColor=D6E7FF)
@@ -29,5 +31,7 @@
   ![premiere](https://img.shields.io/badge/premiere-030314?style=for-the-badge&logo=adobe-premiere-pro&logoColor=D6E7FF)
   ![after effects](https://img.shields.io/badge/after_effects-030314?style=for-the-badge&logo=adobe-after-effects&logoColor=D6E7FF)
   ![blender](https://img.shields.io/badge/blender-030314?style=for-the-badge&logo=blender&logoColor=D6E7FF)
+  
+  
 
 </div>
