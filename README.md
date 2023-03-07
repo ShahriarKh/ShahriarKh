@@ -17,9 +17,7 @@
   
   ### Tools
   ![obsidian](https://img.shields.io/badge/obsidian-030314?style=for-the-badge&logo=obsidian&logoColor=D6E7FF)
-  ![notion](https://img.shields.io/badge/notion-030314?style=for-the-badge&logo=notion&logoColor=D6E7FF)
   ![vscode](https://img.shields.io/badge/vscode-030314?style=for-the-badge&logo=visual-studio-code&logoColor=D6E7FF)
-  ![npm](https://img.shields.io/badge/npm-030314?style=for-the-badge&logo=npm&logoColor=D6E7FF)
   
   ### Artist side of me
   ![dragonframe](https://img.shields.io/badge/dragonframe-030314?style=for-the-badge&logo=dragonframe&logoColor=D6E7FF)
