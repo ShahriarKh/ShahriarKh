@@ -13,16 +13,13 @@
   ![Next.js](https://img.shields.io/badge/Next.js-030314?style=for-the-badge&logo=next.js&logoColor=D6E7FF)
   ![Graphql](https://img.shields.io/badge/Graphql-030314?style=for-the-badge&logo=graphql&logoColor=D6E7FF)
   ![wordpress](https://img.shields.io/badge/wordpress-030314?style=for-the-badge&logo=wordpress&logoColor=D6E7FF)
+  ![python](https://img.shields.io/badge/python-030314?style=for-the-badge&logo=python&logoColor=D6E7FF)
   
   ### Tools
   ![obsidian](https://img.shields.io/badge/obsidian-030314?style=for-the-badge&logo=obsidian&logoColor=D6E7FF)
   ![notion](https://img.shields.io/badge/notion-030314?style=for-the-badge&logo=notion&logoColor=D6E7FF)
   ![vscode](https://img.shields.io/badge/vscode-030314?style=for-the-badge&logo=visual-studio-code&logoColor=D6E7FF)
   ![npm](https://img.shields.io/badge/npm-030314?style=for-the-badge&logo=npm&logoColor=D6E7FF)
-
-  ### Rookie in:
-  ![python](https://img.shields.io/badge/python-030314?style=for-the-badge&logo=python&logoColor=D6E7FF)
-  ![php](https://img.shields.io/badge/php-030314?style=for-the-badge&logo=php&logoColor=D6E7FF)
   
   ### Artist side of me
   ![dragonframe](https://img.shields.io/badge/dragonframe-030314?style=for-the-badge&logo=dragonframe&logoColor=D6E7FF)
