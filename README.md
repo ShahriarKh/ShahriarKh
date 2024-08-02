@@ -24,14 +24,14 @@
 
   
   ### Tools
-  ![obsidian](https://img.shields.io/badge/obsidian-030314?style=for-the-badge&logo=obsidian&logoColor=D6E7FF)
   ![vscode](https://img.shields.io/badge/vscode-030314?style=for-the-badge&logo=visual-studio-code&logoColor=D6E7FF)
-  ![linear](https://img.shields.io/badge/linear-030314?style=for-the-badge&logo=linear&logoColor=D6E7FF)
+  ![obsidian](https://img.shields.io/badge/obsidian-030314?style=for-the-badge&logo=obsidian&logoColor=D6E7FF)
   ![eraser](https://img.shields.io/badge/eraser-030314?style=for-the-badge&logo=eraser&logoColor=D6E7FF)
   ![excalidraw](https://img.shields.io/badge/excalidraw-030314?style=for-the-badge&logo=excalidraw&logoColor=D6E7FF)
+  ![jupyter](https://img.shields.io/badge/jupyter-030314?style=for-the-badge&logo=jupyter&logoColor=D6E7FF)
   ![figma](https://img.shields.io/badge/figma-030314?style=for-the-badge&logo=figma&logoColor=D6E7FF)
   ![httpie](https://img.shields.io/badge/httpie-030314?style=for-the-badge&logo=httpie&logoColor=D6E7FF)
-  ![jupyter](https://img.shields.io/badge/jupyter-030314?style=for-the-badge&logo=jupyter&logoColor=D6E7FF)
+  ![linear](https://img.shields.io/badge/linear-030314?style=for-the-badge&logo=linear&logoColor=D6E7FF)
 
   
   ### Artist side of me
