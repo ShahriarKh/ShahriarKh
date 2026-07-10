@@ -1,7 +1,8 @@
 
 <div align="center">
   
-🏠🦍 Visit My Online Home [ShahriarKh.com](https://shahriarkh.com)
+<pre>🏠🦍 Visit My Online Home <a href="https://shahriarkh.com">ShahriarKh.com</a></pre>
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriarkh&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
 
@@ -71,6 +72,7 @@
   ![premiere](https://img.shields.io/badge/premiere-030314?style=for-the-badge&logo=adobe-premiere-pro&logoColor=D6E7FF)
   ![after effects](https://img.shields.io/badge/after_effects-030314?style=for-the-badge&logo=adobe-after-effects&logoColor=D6E7FF)
   
+  \+ A pen(cil) and whatever you can draw on it. ✏️
   
 
 </div>
